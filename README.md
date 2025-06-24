@@ -1,6 +1,6 @@
 # ai-project
 1. How does age influence a player's stats?
-  - age vs pts, ...
+    age vs pts, ...
 3. Does player height impact how much a player scores per game and total points in their career?
 4. How does the number of games played impact a players stats?
 5. Does higher draft pick correlate to stronger peformance?
